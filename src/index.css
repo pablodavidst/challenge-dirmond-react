@@ -11,9 +11,7 @@ code {
 }
 
 .divext{
-    background: #084f85;
     padding: 50px;
-    color:#c9d4ee;
     width: 650px;
     margin-left: auto;
     margin-right: auto;
@@ -27,6 +25,7 @@ code {
   margin-left: auto;
   margin-right: auto;
   padding-bottom: 60px;
+  color:#c9d4ee;
 }
 
 .titulo{
